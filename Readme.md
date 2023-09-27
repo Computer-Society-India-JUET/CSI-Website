@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the Computer Society of India (CSI) at Jaypee University of Engineering and Technology (JUET) Website!
 
-![CSI JUET Logo](https://github.com/Computer-Society-India-JUET/CSI-Website/raw/main/insert-logo-url-here)
+![CSI JUET Logo](images/csi-logo.png)
 
 ## About
 
